@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isipuazi.github.io/IuS/sitemap_index.txt
+Sitemap: https://isipuazi.github.io/Jke/sitemap_index.txt
+Sitemap: https://isipuazi.github.io/Rvl/sitemap_index.txt
+Sitemap: https://isipuazi.github.io/hOD/sitemap_index.txt
